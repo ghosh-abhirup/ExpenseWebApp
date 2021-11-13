@@ -1,4 +1,4 @@
-import Card from "./Card";
+import Card from "../Card Component/Card";
 import ExpenseItem from "./ExpenseItems";
 import "./Expenses.css";
 
